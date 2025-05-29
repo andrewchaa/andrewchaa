@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew Chaa (@andrewchaa)
+- 👋 Hi, I’m Youngho Andrew Chaa (@andrewchaa)
 - 👀 I’m interested in coding for things that make the already hard life slightly easier.
 - 🌱 I’m currently learning typescript and functional programming
 - 📫 You can reach me by mailling to youngho@deepeyes.co.uk
